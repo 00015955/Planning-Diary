@@ -1,0 +1,16 @@
+{
+  "short_name": "Planning Diary",
+  "name": "Create Planning Diary",
+  "icons": [
+    
+    {
+      "src": "front/public/IMAGE 2024-03-14 20:45:06.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "pink",
+  "background_color": "#ffffff"
+}
